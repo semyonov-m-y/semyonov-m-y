@@ -2,7 +2,7 @@
 
 About me:
 
-- 🔭 I’m currently working on Data analysis projects.
+- 🔭 I’m working on Data analysis projects.
 - 🌱 I’m leading Load testing team.
 - 👯 I’m creating Vue and React web-sites.
 - 🤔 I’m building AI Multi Agents Systems.
